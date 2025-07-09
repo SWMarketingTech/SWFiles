@@ -1,0 +1,1 @@
+Sample of the files, there are files left out meaning you will have trouble installing the app without installation through traditional means. For full use of the app please notify SW through the messages section on the porfolio page (or install through platform such as android, IOS, etc. if applicable).
